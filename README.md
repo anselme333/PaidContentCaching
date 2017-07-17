@@ -1,5 +1,3 @@
-Incentive Mechanism for Paid Content Caching in Content Centric Networking
-======
 Topology:
 --------
 Network Topology is available in examples/topologies/Simulation_Topology.txt
